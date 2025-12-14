@@ -1,0 +1,106 @@
+@import url('https://fonts.google.com/specimen/Courier+Prime');
+@import url('https://fonts.googleapis.com/css2?family=Dynalight&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+body {
+  margin: 0px;
+  line-height: 1.6px;
+  text-align: center;
+  background-color: #FF6600;
+  font-family: 'Lora', serif;
+  font-style: italic;
+}
+
+.site-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+    background-color: #516B1C;
+}
+
+.header-left img {
+    width: 160px;
+    height: auto;
+}
+
+.header-left .tagline {
+    margin-top: 6px;
+    font-size: 20px;
+    color: #000000;
+    font-weight: bold;
+}
+
+.header-quote {
+    text-align: center;
+    max-width: 420px;
+}
+
+.quote-text {
+    font-family: 'Dynalight', cursive;
+    font-size: 26px;
+    color: #323232;
+    line-height: 1.4;
+    font-style: normal;
+}
+
+.quote-author {
+    font-family: 'Dynalight', cursive;
+    font-size: 22px;
+    color: #323232;
+    margin-top: 6px;
+    text-align: right;
+}
+
+.header-right {
+    display: flex;
+    gap: 24px;
+}
+
+.header-right a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+    font-size: 20px;
+}
+
+.header-right a:hover {
+    text-decoration: underline;
+}
+
+.logo-link {
+    text-decoration: none;
+    color: inherit;         
+    display: inline-block;  
+}
+
+.logo-link:hover {
+    cursor: pointer;
+}
+
+nav a {
+  color: #6b8f25;
+  text-decoration: none;
+  margin-right: 15px;
+  font-weight: bold;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #000000;
+  font-family: 'Courier Prime', monospace;
+  margin-top: 25px;
+  font-style: normal;
+}
+
+p {
+   margin-top: 40px;
+  }
+
+ul {
+    margin-top: 35px;
+    margin-left: 20px; 
+}
+
+li {
+    margin-bottom: 20px;
+}
