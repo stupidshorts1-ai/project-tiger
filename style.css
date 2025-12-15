@@ -93,8 +93,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-   margin-top: 40px;
-  }
+    display: block;
+    line-height: 1.7;
+    margin-bottom: 16px;
+    white-space: normal;
+    margin-top: 40px;
+}
 
 ul {
     margin-top: 35px;
@@ -103,4 +107,5 @@ ul {
 
 li {
     margin-bottom: 20px;
+
 }
