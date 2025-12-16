@@ -103,9 +103,19 @@ p {
 ul {
     margin-top: 35px;
     margin-left: 20px; 
+    display: block;
+    line-height: 1.7;
+    margin-bottom: 16px;
+    white-space: normal;
+    margin-top: 40px;
 }
 
 li {
     margin-bottom: 20px;
-
+    display: block;
+    line-height: 1.7;
+    margin-bottom: 16px;
+    white-space: normal;
+    margin-top: 40px;
 }
+
