@@ -4,8 +4,6 @@
 
 body {
   margin: 0px;
-  line-height: 1.6px;
-  text-align: center;
   background-color: #FF6600;
   font-family: 'Lora', serif;
   font-style: italic;
@@ -104,7 +102,7 @@ p {
     line-height: 1.7;
     margin-bottom: 16px;
     white-space: normal;
-    margin-top: 40px;
+    margin-top: 5px;
     text-align: center;
 }
 
