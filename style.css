@@ -7,6 +7,7 @@ body {
   background-color: #FF6600;
   font-family: 'Lora', serif;
   font-style: italic;
+  text-align: center;
 }
 
 .site-header {
@@ -94,7 +95,6 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Courier Prime', monospace;
   margin-top: 25px;
   font-style: normal;
-  text-align: center;
 }
 
 p {
@@ -103,7 +103,6 @@ p {
     margin-bottom: 16px;
     white-space: normal;
     margin-top: 5px;
-    text-align: center;
 }
 
 ul {
@@ -124,3 +123,4 @@ li {
     white-space: normal;
     margin-top: 40px;
 }
+
