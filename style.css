@@ -103,6 +103,7 @@ p {
     margin-bottom: 16px;
     white-space: normal;
     margin-top: 5px;
+    text-align: center;
 }
 
 ul {
@@ -122,5 +123,5 @@ li {
     margin-bottom: 16px;
     white-space: normal;
     margin-top: 40px;
+    text-align: center;
 }
-
